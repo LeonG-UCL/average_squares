@@ -6,9 +6,18 @@
 Welcome to Average Squares's documentation!
 ===========================================
 
+This documents the average square's function in the squares module.
+The average squares function takes an input of a list of numbers and averages the squares of those numbers.
+
+Contents
+---------
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   Average Squares Documentation <content/average-squares-docs.rst>
+   
 
 
 
